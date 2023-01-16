@@ -3,16 +3,19 @@ version: 2
 updates:
 - package-ecosystem: npm
   directory: "/"
-  schedule: {}
+  schedule:
+    interval: monatlich x
   commit-message:
     prefix: "\U0001F4CC"
   ignore:
   - dependency-name: Anmerkung*
     update-types:
     - version-update:semver-major
-  - update-types:
+  - dependency-name: Knoten abrufens
+    update-types:
     - version-update:semver-major
-  - update-types:
+  - dependency-name: Ava s
+    update-types:
     - version-update:semver-major
   - dependency-name: Unified-Flusen-Regel
     update-types:
