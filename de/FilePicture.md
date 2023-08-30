@@ -27,7 +27,7 @@ Dillinger ist ein Cloud-fähiger, für Mobilgeräte geeigneter Offline-Speicher-
 - Importieren Sie eine HTML-Datei und beobachten Sie, wie sie auf magische Weise in Markdown konvertiert wird
 - Bilder per Drag-and-Drop verschieben (erfordert die Verknüpfung Ihres Dropbox-Kontos)
 
-You can also:
+Du kannst auch: (мод 2)
 
 - Importieren und speichern Sie Dateien von GitHub, Dropbox, Google Drive und One Drive
 - Ziehen Sie Markdown- und HTML-Dateien per Drag-and-Drop in Dillinger
@@ -39,7 +39,7 @@ Markdown ist eine leichte Auszeichnungssprache, die auf den Formatierungskonvent
 
 Dieser Text, den Sie hier sehen, ist *tatsächlich* in Markdown geschrieben! Um ein Gefühl für die Syntax von Markdown zu bekommen, geben Sie Text in das linke Fenster ein und sehen Sie sich die Ergebnisse im rechten Fenster an.
 
-### false
+### FALSCH (мод1)
 
 Dillinger nutzt eine Reihe von Open-Source-Projekten, um ordnungsgemäß zu funktionieren:
 
