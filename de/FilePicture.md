@@ -20,7 +20,7 @@ Dillinger ist ein Cloud-fähiger, für Mobilgeräte geeigneter Offline-Speicher-
 
 - Geben Sie links etwas Markdown ein
 - Siehe HTML rechts
-- Magie
+- Magie (мод21)
 
 # WAHR (овн)
 
