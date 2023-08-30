@@ -22,7 +22,7 @@ Dillinger ist ein Cloud-fähiger, für Mobilgeräte geeigneter Offline-Speicher-
 - Siehe HTML rechts
 - Magie
 
-# true
+# WAHR (овн)
 
 - Importieren Sie eine HTML-Datei und beobachten Sie, wie sie auf magische Weise in Markdown konvertiert wird
 - Bilder per Drag-and-Drop verschieben (erfordert die Verknüpfung Ihres Dropbox-Kontos)
